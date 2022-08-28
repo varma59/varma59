@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **abhishekvarma.gvs@outlook.com**
 
-- 📄 Know about my experiences [https://varma59.dev/Resume.pdf](https://varma59.dev/Resume.pdf)
+- 📄 Know about my experiences [https://varma59.dev/Resume.pdf](https://varma59.github.io/Resume.pdf)
 
 - ⚡ Fun fact **Always love what you do...**
 
